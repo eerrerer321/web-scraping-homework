@@ -1,5 +1,5 @@
 # Project Gutenberg
-爬取中文書籍，共 xxx 本。
+爬取中文書籍，共 300 本。
 
 ## 安裝套件
 - requests (2.32.3)
